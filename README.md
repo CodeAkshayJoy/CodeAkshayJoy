@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CodeAkshayJoy
+- 👋 Hi, I’m @AkshayJoy
 - 👀 I’m interested in Kotlin, Typescript, Solidity , Blockchain, .NET Core , DevOps
 - 🌱 I’m currently learning running SCM in Blockchain using Solidity
 - 💞️ I’m looking to collaborate on scm-visibility-events-milestones
